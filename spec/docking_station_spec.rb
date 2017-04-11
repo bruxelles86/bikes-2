@@ -1,2 +1,2 @@
-describe DockingStation
+describe DockingStation do
 end
