@@ -1,4 +1,5 @@
-require 'boris-bikes'
+require 'docking_station'
+require 'bike'
 
 describe Bike do
   it do bike = Bike.new
